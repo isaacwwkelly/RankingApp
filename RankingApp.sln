@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "rankingapp.client", "rankingapp.client\rankingapp.client.esproj", "{77608FAF-03B3-234E-BC30-07336D63B632}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RankingApp.Server", "RankingApp.Server\RankingApp.Server.csproj", "{43CB0094-439C-4E10-AC92-359E4C465903}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77608FAF-03B3-234E-BC30-07336D63B632}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77608FAF-03B3-234E-BC30-07336D63B632}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77608FAF-03B3-234E-BC30-07336D63B632}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{77608FAF-03B3-234E-BC30-07336D63B632}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77608FAF-03B3-234E-BC30-07336D63B632}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77608FAF-03B3-234E-BC30-07336D63B632}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{43CB0094-439C-4E10-AC92-359E4C465903}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43CB0094-439C-4E10-AC92-359E4C465903}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43CB0094-439C-4E10-AC92-359E4C465903}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43CB0094-439C-4E10-AC92-359E4C465903}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FD79E014-3EBF-4D8D-8DFA-FF842D8609A2}
+	EndGlobalSection
+EndGlobal
